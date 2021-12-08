@@ -1,0 +1,4 @@
+.env
+carpeta-no-subir/
+*/*.log
+*/*.class
